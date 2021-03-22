@@ -102,6 +102,8 @@ GEM
     mysql2 (0.5.3)
     nio4r (2.5.7)
     nokogiri (1.11.2-x86_64-darwin)
+    nokogiri (1.11.2)
+      mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     pry (0.14.0)
       coderay (~> 1.1)
